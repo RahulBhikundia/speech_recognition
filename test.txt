@@ -1,0 +1,2 @@
+Recognized text:
+hello everyone I am making a speech recognis using Python machine learning model
